@@ -41,9 +41,9 @@ https://github.com/glazenda/Capstone1_Alt_Fuels/blob/master/Alt_Fuels_Hyperparam
 
 # Conclusion
 It is clear from the data and the predictions that there is significant growth in use of alternate fuels in the automobile industry especially in the recent past.  Using alternate fuels in automobiles, not only provides sustainable growth and most significantly it reduces the harmful Carbon-dioxide gases emitting to the atmosphere.  Several alternate fuels in discussion in this article burns clean and they are environmentally friendly.  In the last decade, the average retail fuel prices in the USA has been rather stable and may be slightly on a decline trend (https://afdc.energy.gov/fuels/prices.html).  I believe this trend will continue and change in years to come favoring towards alternative fuels due to the following factors: 
----- as the dependency on petroleum fuels (gasoline and diesel oil) continue to decline
----- more environmentally conscious vehicle owners interested in alternate fuel driven vehicles  
----- increased availability of the gas stations for the commuters / vehicle owners 
----- leap in technology to produce alternative fuels with lower production cost  
----- fuels that are safer to use 
+---- as the dependency on petroleum fuels (gasoline and diesel oil) continue to decline.   
+---- more environmentally conscious vehicle owners interested in alternate fuel driven vehicles.    
+---- increased availability of the gas stations for the commuters / vehicle owners.  
+---- leap in technology to produce alternative fuels with lower production cost.    
+---- fuels that are safer to use.     
  This report favors the industries that are in production of automobile vehicles enabling the use of alternative fuels, industries that produce alternative fuels, vehicle owners who are with sustainability mindset and interested in leaving positive footprints to the environment, government that continues to thrive increasing vehicle fleet with alternative fuels and gas stations providing flexibility with various fuel types. 
